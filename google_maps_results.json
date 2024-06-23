@@ -1,0 +1,952 @@
+[
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Doğu Kent, Gazi Cad./büyük Çarşı No:38, 23280 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6749569,
+                "lng": 39.2224567
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67622382989273,
+                    "lng": 39.22380272989272
+                },
+                "southwest": {
+                    "lat": 38.67352417010728,
+                    "lng": 39.22110307010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Evliyaoglu Bebe Giyim",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJjUv7DXvAdkARNDLkt7Dq82Y",
+        "plus_code": {
+            "compound_code": "M6FC+XX Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FC+XX"
+        },
+        "rating": 0,
+        "reference": "ChIJjUv7DXvAdkARNDLkt7Dq82Y",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa, Şht. Yüzbaşı Tahir Cd. No:13, 23200 Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6752011,
+                "lng": 39.2227337
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67655227989272,
+                    "lng": 39.22409437989272
+                },
+                "southwest": {
+                    "lat": 38.67385262010727,
+                    "lng": 39.22139472010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Armine",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2776,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/115940849236448967205\">A Google User</a>"
+                ],
+                "photo_reference": "AcJnMuGXfj5FUqnYzJ4uqUKWe0SY12le1aJkOG30-DdJ1Iw-tsbiroy7nEgxIDwLd8ZiSF_gZrqRIXuaZqQZkL8W9OymOth01XlMZmngcb41OzxzJnoHBfOo43N0gK1l6nqBQ3LlpkETHawwlgnvmQxHsiVaZABNr6db9zwwB6A7vIhxNpw",
+                "width": 6016
+            }
+        ],
+        "place_id": "ChIJNTe_envAdkARI17rXHLFhMs",
+        "plus_code": {
+            "compound_code": "M6GF+33 Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6GF+33"
+        },
+        "rating": 3,
+        "reference": "ChIJNTe_envAdkARI17rXHLFhMs",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa Mah. Gazi Cad. Büyük Çarşı D:39, İzzetpaşa, Elazığ Merkez, Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6748228,
+                "lng": 39.2218755
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67615417989272,
+                    "lng": 39.22322287989272
+                },
+                "southwest": {
+                    "lat": 38.67345452010728,
+                    "lng": 39.22052322010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Sirin Ic Giyim",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJjUv7DXvAdkARsjEV2ZXYf-w",
+        "plus_code": {
+            "compound_code": "M6FC+WQ Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FC+WQ"
+        },
+        "rating": 0,
+        "reference": "ChIJjUv7DXvAdkARsjEV2ZXYf-w",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa, Şht. Binbaşı Hasan Sabri Sk. No:22, 23200 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6754761,
+                "lng": 39.2224558
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67677372989272,
+                    "lng": 39.22380297989272
+                },
+                "southwest": {
+                    "lat": 38.67407407010727,
+                    "lng": 39.22110332010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Meka",
+        "place_id": "ChIJY1SLZXvAdkARBplQMQgOu9I",
+        "plus_code": {
+            "compound_code": "M6GC+4X Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6GC+4X"
+        },
+        "rating": 0,
+        "reference": "ChIJY1SLZXvAdkARBplQMQgOu9I",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa, Şht. Binbaşı Hasan Sabri Sk., 23200 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6754609,
+                "lng": 39.222301
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67683507989273,
+                    "lng": 39.22364617989272
+                },
+                "southwest": {
+                    "lat": 38.67413542010728,
+                    "lng": 39.22094652010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "IQ FASHİON ELAZIĞ",
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/116050326734524588077\">A Google User</a>"
+                ],
+                "photo_reference": "AcJnMuHtnxwYgG3Qj-v-GaqMTt7aOShdMEKRaTO0-63uloTfVAR1xKq7yFMLF28N0_EIr8dXxRb_OdysbKHuYtj9j_KW7ZKe3p_Iw5nizcXkvZVPNqib3AL4SLdPXDIZwPlqykwihsGW-sBF47oABDyt6mWQ-C_L41Xa4pMp6QEtgVFy_B98",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJM_-WP9_BdkAR3yDQQvbyNo0",
+        "plus_code": {
+            "compound_code": "M6GC+5W Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6GC+5W"
+        },
+        "rating": 5,
+        "reference": "ChIJM_-WP9_BdkAR3yDQQvbyNo0",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa, No:, Şht. Binbaşı Hasan Sabri Sk. No:13, 23100 MERKEZ/Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6755592,
+                "lng": 39.222048
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67687752989272,
+                    "lng": 39.22340342989272
+                },
+                "southwest": {
+                    "lat": 38.67417787010728,
+                    "lng": 39.22070377010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Orakcioglu Magazacilik",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 605,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/104304517882769471802\">Orakçıoğlu Giyim</a>"
+                ],
+                "photo_reference": "AcJnMuHSelyUyel9kEIVL7GcPgQb8w0hrYozsIDL9LZBFKydujiYI8OVeCik1gHpt5tvPMRE7NGLVCoYGkEE3Pt0tZSE538McWGaBAMffg0N6yKTGBmxRTNlWsCqVp2vBxYr7SIGPN9ovkI0Pi6Pgams2upcwmn4-1HNdefI82zEM2T8qhyG",
+                "width": 1285
+            }
+        ],
+        "place_id": "ChIJ1T4-fXvAdkAR00bWXGqsJEs",
+        "plus_code": {
+            "compound_code": "M6GC+6R Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6GC+6R"
+        },
+        "rating": 4.1,
+        "reference": "ChIJ1T4-fXvAdkAR00bWXGqsJEs",
+        "types": [
+            "shoe_store",
+            "clothing_store",
+            "electronics_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 70
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa, Gazi Cd., 23200 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6750112,
+                "lng": 39.22152000000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67628842989271,
+                    "lng": 39.22285997989272
+                },
+                "southwest": {
+                    "lat": 38.67358877010727,
+                    "lng": 39.22016032010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Accort",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3024,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/113279539843112050032\">A Google User</a>"
+                ],
+                "photo_reference": "AcJnMuGI2YBlgoUgbDD-B1mbT4adsKFHM8uOoVhfz29dduro52vS31_BBSvFM-lj06AddJSmz8NTKUiF6_gC-HC870GS7ljiNHt0lRyQ-8CE-sIyWeOlfwGDz1fWKLzeRROuutXpTbK4iO4OVUZQkP2rD9Xj9ZC3K70TceS_ejCkKiVyGI4K",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJE0tEEXvAdkARxNWy5LFPWCM",
+        "plus_code": {
+            "compound_code": "M6GC+2J Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6GC+2J"
+        },
+        "rating": 4,
+        "reference": "ChIJE0tEEXvAdkARxNWy5LFPWCM",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 12
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa Mah. Büyük Çarşı K:Bodrum D:14, İzzetpaşa, Elazığ Merkez, Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.67543930000001,
+                "lng": 39.2219794
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67680752989273,
+                    "lng": 39.22332662989272
+                },
+                "southwest": {
+                    "lat": 38.67410787010728,
+                    "lng": 39.22062697010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Bise Ic Giyim",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJjUv7DXvAdkARMJ-sPrGUILg",
+        "plus_code": {
+            "compound_code": "M6GC+5Q Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6GC+5Q"
+        },
+        "rating": 0,
+        "reference": "ChIJjUv7DXvAdkARMJ-sPrGUILg",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Nail Bey, 23100 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6748354,
+                "lng": 39.22129
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67620287989272,
+                    "lng": 39.22264217989272
+                },
+                "southwest": {
+                    "lat": 38.67350322010728,
+                    "lng": 39.21994252010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "İklim Life",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4032,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/114064941320875322978\">Nashwan Adnan</a>"
+                ],
+                "photo_reference": "AcJnMuH_9Gb6l5TJaHLIhsAnAjWyb04UXxSg0HAQZtn58Gt8mzCG11-YFVywJ_oZ-BV9k9U-PkgKxmt7zELCpgKtoa_UevzP4l3Q2AdvUjGKlNAa8Beg_MpLj7BR1Nal_9M-oekOijkqqiH78K5AnVX24K6EJY4fT_aEbvEPsa2hSQSoX7I",
+                "width": 3024
+            }
+        ],
+        "place_id": "ChIJA_OxI3vAdkARMO-JEKDTvSI",
+        "plus_code": {
+            "compound_code": "M6FC+WG Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FC+WG"
+        },
+        "rating": 3.2,
+        "reference": "ChIJA_OxI3vAdkARMO-JEKDTvSI",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 16
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Çarşı Mah. Şehit İlhan Cad. Büyük Çarşı D:13, Nailbey, Elazığ Merkez, Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6753912,
+                "lng": 39.2218356
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67678357989272,
+                    "lng": 39.22317942989272
+                },
+                "southwest": {
+                    "lat": 38.67408392010727,
+                    "lng": 39.22047977010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Tepe Spor Giyim",
+        "opening_hours": {
+            "open_now": true
+        },
+        "place_id": "ChIJjUv7DXvAdkARpaIHk9wemzw",
+        "plus_code": {
+            "compound_code": "M6GC+5P Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6GC+5P"
+        },
+        "rating": 5,
+        "reference": "ChIJjUv7DXvAdkARpaIHk9wemzw",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa, Hürriyet Cd. No:6 D:F, 23200 Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6749831,
+                "lng": 39.2218211
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67633722989272,
+                    "lng": 39.22309802989272
+                },
+                "southwest": {
+                    "lat": 38.67363757010727,
+                    "lng": 39.22039837010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Tudors Elazığ Gazi",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1908,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100525748338583056566\">Ramazan Dalgin</a>"
+                ],
+                "photo_reference": "AcJnMuHaPRa7M--gdoliXDolKfeVRANHdi3uaMgCI-le6USG4ZF_t0ad-4Q8Yqa6avglvPXrVX3Exhuhenp_lly30uAC8wVaDAYwgBJVVEnkcMMje-A58ZrUdEUkv6yRaBPwCCuPsmfXxHzuiFh8toYjp9rlVTNZqSa2u2Ag_8UHWR0kQQvx",
+                "width": 4032
+            }
+        ],
+        "place_id": "ChIJ_dO0zGPAdkARjgmM30rmeMY",
+        "plus_code": {
+            "compound_code": "M6FC+XP Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FC+XP"
+        },
+        "rating": 3.5,
+        "reference": "ChIJ_dO0zGPAdkARjgmM30rmeMY",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 13
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Çarşı, İşçiler Sk., 23100 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.67346740000001,
+                "lng": 39.222703
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67480137989272,
+                    "lng": 39.22407692989272
+                },
+                "southwest": {
+                    "lat": 38.67210172010728,
+                    "lng": 39.22137727010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Umut Giyim",
+        "photos": [
+            {
+                "height": 2088,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/118119677437581891469\">A Google User</a>"
+                ],
+                "photo_reference": "AcJnMuEGlbH8cVzH5JDcWQmCJdhMXFRTiAM0lK6QOrXSbAuEF2oeSZ4LuiRxxNcUTPGW5jK87wq9yAyzrcEe5MqrLbaagq3_UgLdtlgSjZ1b0XtvLDVj_Drb6JqU1djLn8hVa8Uhfw8eulu5IesyDoGIul6ryovr1qDObFr2R5-RXamOCmbn",
+                "width": 4640
+            }
+        ],
+        "place_id": "ChIJaQimSnrAdkARcJxMhBUJHXw",
+        "plus_code": {
+            "compound_code": "M6FF+93 Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FF+93"
+        },
+        "rating": 5,
+        "reference": "ChIJaQimSnrAdkARcJxMhBUJHXw",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Çarşı Mah, Kazım Karabekir cad, 20/j Elazığ/Merkez, 23000 Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6707808,
+                "lng": 39.2312224
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67215932989272,
+                    "lng": 39.23259547989272
+                },
+                "southwest": {
+                    "lat": 38.66945967010728,
+                    "lng": 39.22989582010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "By ERCAN’S Giyim ELAZIĞ",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 3144,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103141560932668172553\">A Google User</a>"
+                ],
+                "photo_reference": "AcJnMuG9ErW9RlajpwXewIuM85dqeY4JuJiB-QQJTYzMZK2hfS_fsMfsgI7vH-uLNjv4o7ihAdHUn2TIpJBmheBqxsSLJOCNk4RiVMAbC1W2WjvnI9AKevP27YlYGTnKiyrKXo5tQ5fPIy693r6l9scNA428borldKNqSE9GfeDaqcO-GncF",
+                "width": 4192
+            }
+        ],
+        "place_id": "ChIJ6T3SNXnAdkARC6pBLFeEtSo",
+        "plus_code": {
+            "compound_code": "M6CJ+8F Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6CJ+8F"
+        },
+        "rating": 4.4,
+        "reference": "ChIJ6T3SNXnAdkARC6pBLFeEtSo",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 27
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa, Şht. Binbaşı Hasan Sabri Sk. No:17/A, 23200 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.67565099999999,
+                "lng": 39.222324
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67693957989272,
+                    "lng": 39.22368367989272
+                },
+                "southwest": {
+                    "lat": 38.67423992010728,
+                    "lng": 39.22098402010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Etyemezler mağazası",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1920,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/101381412490395466145\">A Google User</a>"
+                ],
+                "photo_reference": "AcJnMuHHwwRwWU5XX9IHBI34zEOPvS7TkI7EU1oK3bXUxyf3cwt4bfWfBiCaJU6WfuP-IZO-qntU-VF282GzVGzV6ngygpePZYvIiw0UH6WiBWFCrGO3U6Cc87qdltYBNfr_rydOngKOuPDb5I6-szIjDEIfPMlSI_t-RyLjyTdjOpMD0I9i",
+                "width": 1080
+            }
+        ],
+        "place_id": "ChIJIXGCaHvAdkARyBE3Y3W8E9c",
+        "plus_code": {
+            "compound_code": "M6GC+7W Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6GC+7W"
+        },
+        "rating": 4.3,
+        "reference": "ChIJIXGCaHvAdkARyBE3Y3W8E9c",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 4
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Hürriyet caddesi çarşı mahallesi no 30 Elazığ merkez, 23100 Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6741491,
+                "lng": 39.226237
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67551227989272,
+                    "lng": 39.22754462989271
+                },
+                "southwest": {
+                    "lat": 38.67281262010728,
+                    "lng": 39.22484497010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Arden Giyim Elazığ",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 1286,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108701953597935487987\">A Google User</a>"
+                ],
+                "photo_reference": "AcJnMuGFyVtAjsA8Hy2wfRBS1_Ts7NwyJiETsGBqWxPRKd3zM_djU4i-LAiVXl0Qcjn13_3rbkdYHsW3JHIxHBw4ubqAOlMthz5Xqh43OIcRjzMEVdQq-C_yfG-BYkG8VSbV9Q8MU_bZhaaraPtmB-_YcxL77dEFpRNsZCgRdeeNJ7nbWhFt",
+                "width": 652
+            }
+        ],
+        "place_id": "ChIJE6GAPDnBdkAR2UBrn3Lo6DU",
+        "plus_code": {
+            "compound_code": "M6FG+MF Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FG+MF"
+        },
+        "rating": 5,
+        "reference": "ChIJE6GAPDnBdkAR2UBrn3Lo6DU",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 3
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "İzzet Paşa, Şht. Binbaşı Hasan Sabri Sk., 23200 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6755799,
+                "lng": 39.22223510000001
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67689987989272,
+                    "lng": 39.22358972989272
+                },
+                "southwest": {
+                    "lat": 38.67420022010728,
+                    "lng": 39.22089007010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "MORRO İÇ GİYİM",
+        "opening_hours": {
+            "open_now": false
+        },
+        "photos": [
+            {
+                "height": 1800,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100920579457055649816\">A Google User</a>"
+                ],
+                "photo_reference": "AcJnMuETF5QkzKOtbGF29JTDA5mGrrqxIJeHyJx6_Qwzs4yFwbKbupBXl6vhJQg6gmX2CmP4w3K9w2m0DTNzm9LRSPRcxUYwrWHtMzA3OydL0yZuogGF-AkahWzOGfjDwfJzgUA9u6yEJrxQKYhpY8ZIAiHrBvoiNc_wvSXzNWJNa4HXMwYo",
+                "width": 1200
+            }
+        ],
+        "place_id": "ChIJG1sX44fBdkARuoKRrCm_-og",
+        "plus_code": {
+            "compound_code": "M6GC+6V Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6GC+6V"
+        },
+        "rating": 4,
+        "reference": "ChIJG1sX44fBdkARuoKRrCm_-og",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 2
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Nail Bey, Gazi Cd. No:17/A, 23100 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6747528,
+                "lng": 39.2210082
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67618117989272,
+                    "lng": 39.22237052989272
+                },
+                "southwest": {
+                    "lat": 38.67348152010728,
+                    "lng": 39.21967087010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Tuğba | Elazığ",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 2574,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/100525748338583056566\">Ramazan Dalgin</a>"
+                ],
+                "photo_reference": "AcJnMuFfPN4QpQw0ATcXq3UauadFadIHwA_pweg906G4mU8yTRTYdYra_9lbIKEDV2qV-YbhWeCvTe3OKH4lmA_YUHS6t8dTPs--m2GZzrTSndYtK-CiL7XrismQv7JhD_gyX59wqUqFiBwsGeJN_nY9wE5qLuZETPLosgB1qBeHf6xwn37s",
+                "width": 1434
+            }
+        ],
+        "place_id": "ChIJFSbQUuvBdkARuqqX6c_jUIo",
+        "plus_code": {
+            "compound_code": "M6FC+WC Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FC+WC"
+        },
+        "rating": 3,
+        "reference": "ChIJFSbQUuvBdkARuqqX6c_jUIo",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Nail Bey, Vali Fahri Bey Cd. No:18, 23100 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6742359,
+                "lng": 39.2211708
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67558267989273,
+                    "lng": 39.22256147989273
+                },
+                "southwest": {
+                    "lat": 38.67288302010728,
+                    "lng": 39.21986182010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Sitare",
+        "place_id": "ChIJmc3h_XrAdkAR88NAZYY05Ko",
+        "plus_code": {
+            "compound_code": "M6FC+MF Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FC+MF"
+        },
+        "rating": 1,
+        "reference": "ChIJmc3h_XrAdkAR88NAZYY05Ko",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 1
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Nail Bey, Tuncay Sk., 23100 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.6744885,
+                "lng": 39.2205812
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67582942989272,
+                    "lng": 39.22205457989273
+                },
+                "southwest": {
+                    "lat": 38.67312977010728,
+                    "lng": 39.21935492010728
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "Tercih Giyim",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 4096,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/108534526043921858183\">cemil söyler</a>"
+                ],
+                "photo_reference": "AcJnMuG6gpQO0W3kSBchpcpf820krWgEUTKsz4tvZig0NSTacRmCEwqTEbjYqtz3k-7Ddp8KlBbap87uqtKv5aoM3nLnJqoidu1rOHb1EmreMQSIqoGoG2IwzaCQANm9WxYpIvEOD5ThjyZQrPcO9UEEyP_BvYhG1Yqob9Z_w28mRqkyw2_O",
+                "width": 2304
+            }
+        ],
+        "place_id": "ChIJdSTfF0_BdkAR6k83xrQW_nY",
+        "plus_code": {
+            "compound_code": "M6FC+Q6 Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FC+Q6"
+        },
+        "rating": 0,
+        "reference": "ChIJdSTfF0_BdkAR6k83xrQW_nY",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    },
+    {
+        "business_status": "OPERATIONAL",
+        "formatted_address": "Çarşı, Belediye Sk. No:27, 23100 Elâzığ Merkez/Elazığ, Türkiye",
+        "geometry": {
+            "location": {
+                "lat": 38.674004,
+                "lng": 39.2247056
+            },
+            "viewport": {
+                "northeast": {
+                    "lat": 38.67533617989272,
+                    "lng": 39.22606312989272
+                },
+                "southwest": {
+                    "lat": 38.67263652010728,
+                    "lng": 39.22336347010727
+                }
+            }
+        },
+        "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+        "icon_background_color": "#4B96F3",
+        "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+        "name": "GİZALE GİYİM",
+        "opening_hours": {
+            "open_now": true
+        },
+        "photos": [
+            {
+                "height": 798,
+                "html_attributions": [
+                    "<a href=\"https://maps.google.com/maps/contrib/103194304466877222394\">A Google User</a>"
+                ],
+                "photo_reference": "AcJnMuEAvaix2VsoblSybe5et3zQGBiQSQdSn4bVh4mQ8Alc1L4B3wkPjGc9OswOLRhErdLkHlKPaHJy0ywyM5mBuWkrub6Dy-cJ8qOflNnKVYwNzT7wGGsrshcC7eQnDNd6uWV5Pnr4DTZflwA7PJ0vcfzvi5lNSE0JgWRr-zdmaGYQ63Pc",
+                "width": 720
+            }
+        ],
+        "place_id": "ChIJd4UAMiHBdkAR8tWFCScomoA",
+        "plus_code": {
+            "compound_code": "M6FF+JV Yemişlik, Elâzığ Merkez/Elazığ",
+            "global_code": "8GCXM6FF+JV"
+        },
+        "rating": 0,
+        "reference": "ChIJd4UAMiHBdkAR8tWFCScomoA",
+        "types": [
+            "clothing_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+        ],
+        "user_ratings_total": 0
+    }
+]

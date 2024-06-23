@@ -1,0 +1,352 @@
+[
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 424 233 40 07",
+            "name": "Evliyaoglu Bebe Giyim",
+            "place_id": "ChIJjUv7DXvAdkARNDLkt7Dq82Y",
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=7418531055929668148"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 424 236 88 89",
+            "name": "Armine",
+            "place_id": "ChIJNTe_envAdkARI17rXHLFhMs",
+            "rating": 3,
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=14665063381601050147",
+            "user_ratings_total": 2,
+            "website": "http://www.esvapmoda.com/"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 424 238 06 98",
+            "name": "Sirin Ic Giyim",
+            "place_id": "ChIJjUv7DXvAdkARsjEV2ZXYf-w",
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=17041577653097017778"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "name": "Meka",
+            "place_id": "ChIJY1SLZXvAdkARBplQMQgOu9I",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=15184745996959652102"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "name": "IQ FASHİON ELAZIĞ",
+            "place_id": "ChIJM_-WP9_BdkAR3yDQQvbyNo0",
+            "rating": 5,
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=10175587547587027167",
+            "user_ratings_total": 3
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 424 233 41 00",
+            "name": "Orakcioglu Magazacilik",
+            "place_id": "ChIJ1T4-fXvAdkAR00bWXGqsJEs",
+            "rating": 4.1,
+            "types": [
+                "clothing_store",
+                "shoe_store",
+                "electronics_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=5414642224830236371",
+            "user_ratings_total": 70
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "name": "Accort",
+            "place_id": "ChIJE0tEEXvAdkARxNWy5LFPWCM",
+            "rating": 4,
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=2546873214742746564",
+            "user_ratings_total": 12
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 424 236 11 82",
+            "name": "Bise Ic Giyim",
+            "place_id": "ChIJjUv7DXvAdkARMJ-sPrGUILg",
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=13267767991215103792"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "name": "İklim Life",
+            "place_id": "ChIJA_OxI3vAdkARMO-JEKDTvSI",
+            "rating": 3.2,
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=2503389652313567024",
+            "user_ratings_total": 16
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 424 238 30 90",
+            "name": "Tepe Spor Giyim",
+            "place_id": "ChIJjUv7DXvAdkARpaIHk9wemzw",
+            "rating": 5,
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=4367118196374217381",
+            "user_ratings_total": 3
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 850 433 9842",
+            "name": "Tudors Elazığ Gazi",
+            "place_id": "ChIJ_dO0zGPAdkARjgmM30rmeMY",
+            "rating": 3.5,
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=14301433825967475086",
+            "user_ratings_total": 13,
+            "website": "http://www.tudors.com/"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "name": "Umut Giyim",
+            "place_id": "ChIJaQimSnrAdkARcJxMhBUJHXw",
+            "rating": 5,
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=8943314423046249584",
+            "user_ratings_total": 1
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 534 264 51 98",
+            "name": "By ERCAN’S Giyim ELAZIĞ",
+            "place_id": "ChIJ6T3SNXnAdkARC6pBLFeEtSo",
+            "rating": 4.4,
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=3077511430317124107",
+            "user_ratings_total": 27,
+            "website": "http://www.instagram.com/by_ercans"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 424 218 33 67",
+            "name": "Etyemezler mağazası",
+            "place_id": "ChIJIXGCaHvAdkARyBE3Y3W8E9c",
+            "rating": 4.3,
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=15497937955073757640",
+            "user_ratings_total": 4,
+            "website": "https://etyemezler.business.site/?utm_source=gmb&utm_medium=referral"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 544 827 40 87",
+            "name": "Arden Giyim Elazığ",
+            "place_id": "ChIJE6GAPDnBdkAR2UBrn3Lo6DU",
+            "rating": 5,
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=3884610257605574873",
+            "user_ratings_total": 3,
+            "website": "https://arden-giyim.business.site/?utm_source=gmb&utm_medium=referral"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 530 788 60 28",
+            "name": "MORRO İÇ GİYİM",
+            "place_id": "ChIJG1sX44fBdkARuoKRrCm_-og",
+            "rating": 4,
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=9870411719045644986",
+            "user_ratings_total": 2
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 424 238 23 42",
+            "name": "Tuğba | Elazığ",
+            "place_id": "ChIJFSbQUuvBdkARuqqX6c_jUIo",
+            "rating": 3,
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=9966716457487674042",
+            "user_ratings_total": 1,
+            "website": "http://www.tugba.com/"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "name": "Sitare",
+            "place_id": "ChIJmc3h_XrAdkAR88NAZYY05Ko",
+            "rating": 1,
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=12314025032966783987",
+            "user_ratings_total": 1
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "name": "Tercih Giyim",
+            "place_id": "ChIJdSTfF0_BdkAR6k83xrQW_nY",
+            "types": [
+                "clothing_store",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=8574315706235441130"
+        },
+        "status": "OK"
+    },
+    {
+        "html_attributions": [],
+        "result": {
+            "international_phone_number": "+90 532 464 54 98",
+            "name": "GİZALE GİYİM",
+            "place_id": "ChIJd4UAMiHBdkAR8tWFCScomoA",
+            "types": [
+                "clothing_store",
+                "point_of_interest",
+                "store",
+                "establishment"
+            ],
+            "url": "https://maps.google.com/?cid=9266763331396818418",
+            "website": "http://www.gizalegiyim.com/"
+        },
+        "status": "OK"
+    }
+]
