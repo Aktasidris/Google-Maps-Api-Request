@@ -2,7 +2,7 @@
 
 This project allows you to perform a text search using the Google Maps API,
 retrieve place IDs from the search results, fetch detailed information for each place,
-and save the results to both a MongoDB database and an Excel file.
+and save the results to Json file.
 Additionally, it handles paginated results using the `next_page_token`.
 
 ## Prerequisites
