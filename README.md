@@ -16,5 +16,5 @@ Additionally, it handles paginated results using the `next_page_token`.
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Aktasidris/GoogleMapsApiRequest.git
-   cd GoogleMapsApiRequest
+   git clone https://github.com/Aktasidris/Google-Maps-Api-Request.git
+   cd Google-Maps-Api-Request
